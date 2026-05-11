@@ -20,7 +20,9 @@ products. On top of my IC work, I lead a cross-group virtual team focused on dev
 ## Technical toolkit
 
 **Languages & frameworks** — TypeScript · React · GraphQL · Apollo Client
+
 **Testing** — Playwright · Cucumber · React Testing Library
+
 **Backend & infrastructure** — Apollo Router · Kubernetes
 
 ## Get in touch
@@ -30,4 +32,4 @@ products. On top of my IC work, I lead a cross-group virtual team focused on dev
 
 ---
 
-Open to Senior engineering/Tech lead roles and conversations around frontend platform, developer experience, and GraphQL gateways.
+Open to Senior engineering/Tech lead roles and conversations around frontend platform, developer experience and GraphQL gateways.
