@@ -13,7 +13,7 @@ On top of my IC work, I lead a cross-group virtual team focused on developer exp
 - Designing and implementing a federated GraphQL gateway adopted across multiple internal teams
 - Leading a Flux-based GitOps migration spanning multiple projects
 - Contributing reusable components to the shared internal component library
--Serving as Scrum Master — facilitating agile ceremonies and supporting continuous delivery
+- Serving as Scrum Master — facilitating agile ceremonies and supporting continuous delivery
 
 ## Additional leadership
 
