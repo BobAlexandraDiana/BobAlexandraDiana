@@ -17,7 +17,7 @@ On top of my IC work, I lead a cross-group virtual team focused on developer exp
 
 ## Additional leadership
 
-- Leading a cross-group virtual team dedicated to improving developer experience and reducing shared technical debt
+- Leading a cross-functional virtual team focused on enhancing developer experience and reducing shared technical debt
 
 ## Technical toolkit
 
