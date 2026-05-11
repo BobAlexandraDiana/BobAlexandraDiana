@@ -3,7 +3,9 @@
 **Senior Frontend Engineer**
 
 I work in the Digital Employee Experience (DEX) space, building customer-facing
-products. On top of my IC work, I lead a cross-group virtual team focused on developer experience and cross-group technical debt.
+products using React, TypeScript, Apollo Client and GraphQL.
+
+On top of my IC work, I lead a cross-group virtual team focused on developer experience and cross-group technical debt.
 
 ## Current work
 
