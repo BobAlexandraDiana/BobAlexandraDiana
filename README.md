@@ -9,11 +9,11 @@ On top of my IC work, I lead a cross-group virtual team focused on developer exp
 
 ## Current work
 
-- Developing and owning two customer-facing DEX dashboards used by thousands of endpoints
-- Developing and architecting a generic federated GraphQL gateway adopted by multiple internal teams
-- Driving a Flux-based GitOps migration across multiple projects
-- Contributing reusable components to the internal component library
-- Acting as Scrum Master — facilitating agile ceremonies and continuous delivery
+- Developing and maintaining two customer-facing DEX dashboards serving thousands of endpoints
+- Designing and implementing a federated GraphQL gateway adopted across multiple internal teams
+- Leading a Flux-based GitOps migration spanning multiple projects
+- Contributing reusable components to the shared internal component library
+-Serving as Scrum Master — facilitating agile ceremonies and supporting continuous delivery
 
 ## Additional leadership
 
