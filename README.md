@@ -1,6 +1,6 @@
 # Alexandra-Diana Bob
 
-**Senior Frontend Engineer** based in Switzerland.
+**Senior Frontend Engineer**
 
 I work in the Digital Employee Experience (DEX) space, building customer-facing
 products. On top of my IC work, I lead a cross-group virtual team focused on developer experience and cross-group technical debt.
@@ -31,5 +31,6 @@ products. On top of my IC work, I lead a cross-group virtual team focused on dev
 - Email: [bobalexandradiana@gmail.com](mailto:bobalexandradiana@gmail.com)
 
 ---
+Based in Switzerland.
 
 Open to Senior engineering/Tech lead roles and conversations around frontend platform, developer experience and GraphQL gateways.
