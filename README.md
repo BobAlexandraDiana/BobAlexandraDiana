@@ -33,4 +33,4 @@ products. On top of my IC work, I lead a cross-group virtual team focused on dev
 ---
 Based in Switzerland.
 
-Open to Senior engineering/Tech lead roles and conversations around frontend platform, developer experience and GraphQL gateways.
+Open to Senior Engineer / Tech Lead roles and conversations around frontend platform, developer experience, and GraphQL.
