@@ -27,8 +27,8 @@ products. On top of my IC work, I lead a cross-group virtual team focused on dev
 
 ## Get in touch
 
-- LinkedIn: [linkedin.com/in/alexandra-diana-bob](https://www.linkedin.com/in/alexandra-diana-bob/)
 - Email: [bobalexandradiana@gmail.com](mailto:bobalexandradiana@gmail.com)
+- LinkedIn: [linkedin.com/in/alexandra-diana-bob](https://www.linkedin.com/in/alexandra-diana-bob/)
 
 ---
 Based in Switzerland.
